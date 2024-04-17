@@ -1,3 +1,7 @@
+private/
+*.iml
+*out
+*.idea
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
